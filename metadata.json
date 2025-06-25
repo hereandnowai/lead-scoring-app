@@ -1,0 +1,6 @@
+{
+  "name": "Lead Scoring App",
+  "description": "An application to assess and score potential sales leads based on their fit, engagement, and activity using the Gemini API, built for HEREANDNOW AI RESEARCH INSTITUTE.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
